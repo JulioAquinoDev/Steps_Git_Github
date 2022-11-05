@@ -9,7 +9,7 @@
   - Create repository remote in Github.
   - To copy the clone HTTP in button CODE, will show the options for to copy.
   - Now in your project directory, examples(**C:\\MyProjects**) , command execute:
-    - **git clone link_copied_of_repository_remote >**
+    - **git clone link_copied_of_repository_remote**
       - This command will go to do a copy of repository created in Github for your local machine.
       - Enter in path of directory created, **cd name_directory**
       - You will be in path **C:\MyProjects\name_diretcory**
@@ -25,7 +25,7 @@
 
   -  Now you will create new files and updates. And will do: **git add .** for prepared files for commit. Fallowed by **git commit -m "Message"**. Then by last **git push origin main** for to send updates on repository remote.
   - Command sequence:
-    -  **git clone link_copied_of_repository_remote >**
+    -  **git clone link_copied_of_repository_remote**
     - **cd name_directory** (for to access directory cloned)
     - You do CRUD on projects.
     - **git status** (can to be anytime, before and after of git add, git commit or other command)
